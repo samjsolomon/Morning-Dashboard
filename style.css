@@ -130,3 +130,9 @@ a:hover {
 .quote{
   background-color: #8d93ab;
 }
+
+@media (max-width: 767px) {
+    .only-quote{
+        display:none;
+    }
+}
